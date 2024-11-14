@@ -125,7 +125,7 @@ mc3,sp3,vn3,ve3 = a_star(start, goal , d, epsilon = 3)
 mc4,sp4,vn4,ve4 = a_star(start, goal , d, epsilon = 4)
 mc5,sp5,vn5,ve5 = a_star(start, goal , d, epsilon = 5)
 
-file_name = "017443959.txt"
+file_name = "output.txt"
 
 directory = os.path.dirname(__file__)
 
