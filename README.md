@@ -71,3 +71,5 @@ File Structure
 Notes
 
 	•	Adjusting the epsilon parameter changes the heuristic’s influence on the pathfinding algorithm. A higher epsilon may lead to a more greedy search, while an epsilon of 0 results in Dijkstra’s algorithm.
+
+![A* Algorithm Visualization](images/output.gif)
